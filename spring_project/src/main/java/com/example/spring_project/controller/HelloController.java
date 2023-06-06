@@ -10,7 +10,7 @@ public class HelloController {
 
     @RequestMapping("/hello")
     public String hello() {
-        return "hello spring on docker! Yeaaaaaah!";
+        return "hello spring on docker! トップページを修正しています";
     }
 }
 
